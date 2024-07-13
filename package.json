@@ -12,14 +12,14 @@
   "dependencies": {
     "promise": "*",
     "bindings": "*",
-    "nan": "^2.14.2",
-    "bignum": "^0.13.1",
+    "nan": "*",
+    "bignum": "*",
     "sha3": "*",
     "base58-native": "*",
     "bech32": "*",
-    "varuint-bitcoin": "^1.0.4",
-    "merkle-lib": "^2.0.10",
-    "bitcoinjs-lib": "git+https://github.com/MoneroOcean/bitcoinjs-lib.git"
+    "varuint-bitcoin": "*",
+    "merkle-lib": "*",
+    "bitcoinjs-lib": "https://github.com/cbunting99/bitcoinjs-lib.git"
   },
   "keywords": [
     "cryptonight",
